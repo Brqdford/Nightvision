@@ -1,0 +1,13 @@
+main: com.brqdford.nightvision.nightvisionmain
+name: NightVision
+version: '1.0'
+description: nightvision
+author: brqdford
+commands:
+  nightvision:
+    description: Help Command
+    usage: /<command>
+    aliases: [nv]
+  banneditems:
+    description: List of banned items
+    usage: /<command>
